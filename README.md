@@ -1,11 +1,10 @@
-# P5 Hackathon project
-
+# Artist Store
 A Shopping Website build with Angular 4 and Firebase.
 
 
 ## Demo Link :
 
-- Live Demo: https://p5hackathon.firebaseapp.com/
+- Live Demo: https://weblabproject-9372f.web.app/
 
 
 ## Features
@@ -28,8 +27,8 @@ A Shopping Website build with Angular 4 and Firebase.
 
 
 ```
-    > git clone https://github.com/harshdeep1699/p5Hackathon.git
-    > cd p5Hackathon/
+    > git clone https://github.com/harshdeep1699/artistStore.git
+    > cd artistStore/
     > npm install
     > npm start -- --host 127.0.0.1
 
